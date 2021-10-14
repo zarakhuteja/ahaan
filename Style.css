@@ -1,0 +1,10 @@
+.my_nav_bar
+{position: sticky;
+top:0;
+z-index:99999;}
+body{
+background-color:rgb(255, 68, 0)
+}
+.movie_head{
+font-size: 20px; padding: 6px 22px; border-radius: 10px; margin-bottom: 15px; width: 100%; display: inline-block;}
+.movie_head i{float:right;}
